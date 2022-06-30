@@ -1,0 +1,7 @@
+actives the curse of the darkness
+
+Value 1: steps until unactive
+
+Value 2: how much do you want to remove
+from the alpha of the graphic evey update
+(something like 0.03, 0.04, etc...)

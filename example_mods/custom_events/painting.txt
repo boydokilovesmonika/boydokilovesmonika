@@ -1,0 +1,7 @@
+the acceptance painting thing
+
+value 1: the painting
+1 = demon 1
+2 = demon 2
+3 = mom
+value 2: Beats before it goes away
